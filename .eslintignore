@@ -1,0 +1,3 @@
+**/*.typegen.ts
+index.html
+dist
